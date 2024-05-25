@@ -7,4 +7,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="NinjaGaming.NinjaBot.CommonPluginHelpers" Version="1.0.0-pre" />
+      <PackageReference Include="NinjaGaming.NinjaBot.PluginBase" Version="1.0.0-pre" />
+    </ItemGroup>
+
 </Project>
