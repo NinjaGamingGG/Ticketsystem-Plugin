@@ -5,6 +5,7 @@
         <RootNamespace>Ticketsystem_Plugin</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <UserSecretsId>546d0b58-534b-4122-8f52-184f43f5b24e</UserSecretsId>
     </PropertyGroup>
 
     <ItemGroup>
